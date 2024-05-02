@@ -1,0 +1,121 @@
+.divCadastro {
+  
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.header {
+    background-color: rgb(8, 20, 90);
+}
+
+.faixa1 {
+    color: rgb(166, 207, 243);
+    font-family: 'Times New Roman', Times, serif;
+}
+.faixa2 {
+    color: aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.titulo {
+    color: black;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.borda {
+    background-color: rgb(154, 196, 233);
+    width: 500px;
+    height: 510px;
+}
+.borda2 {
+    background-color: rgb(154, 196, 233);
+    width: 500px;
+    height: 510px;
+}
+
+
+body {
+    background-color:rgb(200, 223, 243) ;
+   
+}
+
+.legenda1,
+.legenda2,
+.legenda3,
+.legenda4,
+.legenda5,
+.legenda6,
+.legenda7,
+.legenda8 { 
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.valor1,
+.valor2,
+.valor3,
+.valor4,
+.valor5,
+.valor6,
+.valor7,
+.valor8 { 
+    font-family: monospace;
+    font-size: 17px;
+    border: 2;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.botao {
+    height: 40px;
+    width: 100px;
+    color: aliceblue;
+    border-radius: 10px;
+    background-color: rgb(19, 19, 94);
+    border: 5;
+    cursor: pointer;
+}
+
+botao:hover {
+    color: rgb(19, 19, 94);
+    background-color: aliceblue;
+    width: 150px;
+    transition: 1.5s;
+}
+
+.botao2 {
+    height: 45px;
+    width: 110px;
+    color: aliceblue;
+    border-radius: 10px;
+    background-color: rgb(19, 19, 94);
+    border: 5;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.botao3 {
+    height: 40px;
+    width: 100px;
+    color: aliceblue;
+    border-radius: 10px;
+    background-color: rgb(19, 19, 94);
+    border: 5;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h5 {
+    color: rgb(8, 59, 104);
+    font-size: 20px;
+}
+h4 {
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.generos {
+    display: flex;
+   justify-content: left;
+}
